@@ -14,13 +14,6 @@
 
 ----
 
-**🌱 LEARNING**
-
-[![React badge](https://img.shields.io/badge/-ReactJS-13B5EA?style=flat-square&logo=react&logoColor=white&link=https://reactjs.org)](https://reactjs.org)
-[![Docker badge](https://img.shields.io/badge/-Docker-384d54?style=flat-square&logo=docker&logoColor=white&link=https://docker.org)](https://docker.org)
-
-----
-
 **📓 CONTACTS**
 
 [![Github Badge](https://img.shields.io/badge/-and2carvalho-000?style=flat-square&logo=Github&logoColor=white&link=https://and2carvalho.github.io)](https://and2carvalho.github.io)
